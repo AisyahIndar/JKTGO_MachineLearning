@@ -98,10 +98,10 @@ Untuk menjalankan chatbot rekomendasi:
 ```bash
 /JKTGO_MachineLearning 
 │
-├── datasets/
+├── Datas/
 │   ├── cleaned_dataset_wisata.csv
 │   └── cleaned_dataset_hotel.csv
-├──  Cleaned_dataset.ipynb 
+├── Cleaned_dataset.ipynb 
 ├── Model Chatbot.ipynb 
 └── README.md
 
