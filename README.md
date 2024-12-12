@@ -2,7 +2,7 @@
 
 # Model Rekomendasi Wisata dan Hotel
 
-Proyek ini adalah sistem rekomendasi dan ini adalah path Machine Learning untuk wisata dan hotel dari project JKTGo!. Sistem ini menggunakan dataset wisata dan hotel untuk memberikan rekomendasi berdasarkan input pengguna seperti kategori wisata, harga, rating, dan lokasi.
+Ini adalah path Machine Learning dari project JKTGO!. Sistem ini menggunakan dataset wisata dan hotel untuk memberikan rekomendasi berdasarkan input pengguna seperti kategori wisata, harga, rating, dan lokasi.
 
 ## Deskripsi Proyek
 
