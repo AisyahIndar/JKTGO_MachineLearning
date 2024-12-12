@@ -94,3 +94,15 @@ Untuk menjalankan chatbot rekomendasi:
     ```python
     self.model.load_model('tourism_recommender.h5')
     ```
+## Struktur Direktori
+```bash
+/JKTGO_MachineLearning 
+│
+├── datasets/
+│   ├── cleaned_dataset_wisata.csv
+│   └── cleaned_dataset_hotel.csv
+├──  Cleaned_dataset.ipynb 
+├── Model Chatbot.ipynb 
+└── README.md
+
+
